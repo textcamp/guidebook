@@ -1,1 +1,11 @@
 site_name: The Textcamp Guidebook
+nav:
+  - Home: index.md
+  - The Guides:
+    - Introduction: introduction.md
+    - Player's Guide: players/0.md
+    - Storyteller's Guide: storytellers/0.md
+    - Developer's Guide: developers/0.md
+  - About:
+    - Code of Conduct: about/code_of_conduct.md
+    - License: about/license.md
