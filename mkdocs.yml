@@ -5,9 +5,9 @@ site_dir: docs
 nav:
   - Home: index.md
   - The Guides:
-    - Player's Guide: players/0.md
-    - Storyteller's Guide: storytellers/0.md
-    - Developer's Guide: developers/0.md
+    - Player's Guide: players/index.md
+    - Creator's Guide: creators/index.md
+    - Developer's Guide: developers/index.md
   - About:
     - Code of Conduct: about/code_of_conduct.md
     - License: about/license.md

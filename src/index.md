@@ -1,9 +1,14 @@
-# Introduction
+# 👋 Hello! 
 
-Textcamp is a platform for text-based adventure games. You can explore vast landscapes, fight terrible beasts, make friends, master your skills, and cast spells to help you along the way. There's no special apps to download, and all you need to get started is an e-mail address!
+Textcamp is a platform for text-based adventure games. You can explore vast landscapes, fight terrible beasts, make friends, master your skills, and summon magical powers to help you along the way. 
 
-## [Player's Guide](/players)
+Check out the [Player's Guide](/players) if you're getting started with Textcamp and want to learn more about how to play the game.
 
-## [Storyteller's Guide](/storytellers)
+If you're interested in building your own world, check out the [Creator's Guide](/creators)!
 
-## [Developer's Guide](/developers)
+Maybe you're keen to roll up your sleeves and contribute improvements to the Textcamp platform? Get started with the [Developer's Guide](/developers).
+
+## 🚀 Quickstart
+
+Summon your courage and [click here](https://play.text.camp/)! 😎
+
