@@ -1,6 +1,6 @@
 # 👋 Hello! 
 
-Textcamp is a platform for text-based adventure games. You can explore vast landscapes, fight terrible beasts, make friends, master your skills, and summon magical powers to help you along the way. 
+Textcamp is a platform for creating and playing text-based adventure games. You can explore vast landscapes, fight terrible beasts, make friends, master your skills, and summon magical powers to help you along the way. 
 
 Check out the [Player's Guide](/players) if you're getting started with Textcamp and want to learn more about how to play the game.
 

@@ -104,6 +104,18 @@
             
             <li class="nav-item" data-level="1"><a href="#players-guide" class="nav-link">Player's Guide</a>
               <ul class="nav flex-column">
+            <li class="nav-item" data-level="2"><a href="#text-commands" class="nav-link">Text Commands</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#combat_1" class="nav-link">Combat</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#skill-development" class="nav-link">Skill Development</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
               </ul>
             </li>
         </ul>
@@ -111,7 +123,56 @@
 </div></div>
                     <div class="col-md-9" role="main">
 
-<h1 id="players-guide">Player's Guide</h1></div>
+<h1 id="players-guide">Player's Guide</h1>
+<p><em>Work in progress! Much of this is aspirational.</em></p>
+<h2 id="text-commands">Text Commands</h2>
+<h3 id="player">Player</h3>
+<ul>
+<li>Quit the game and disconnect: <code>quit</code></li>
+<li>Save progress and location for your character: <code>save</code></li>
+</ul>
+<h3 id="environmental">Environmental</h3>
+<ul>
+<li>Check the current world time: <code>time</code></li>
+<li>Look at the space, a mob, or an item: <code>look [target]</code></li>
+<li>Examine something in detail to learn about it: <code>examine [target]</code></li>
+</ul>
+<h3 id="inventory">Inventory</h3>
+<ul>
+<li>Pick up an item in the current space: <code>take thing</code></li>
+<li>Put down an item in the current space: <code>drop thing</code></li>
+<li><strong>TBD:</strong> Give an item to another player or mob: <code>give thing mob</code></li>
+<li><strong>TBD:</strong> To use an item in your inventory: <code>use thing [target]</code></li>
+<li><strong>TBD:</strong> To wear a garment in your inventory: <code>wear thing</code></li>
+<li><strong>TBD:</strong> To hold a weapon or item: <code>hold thing</code></li>
+</ul>
+<h3 id="movement">Movement</h3>
+<ul>
+<li>Move to a different space: <code>go direction</code></li>
+</ul>
+<h3 id="crafting">Crafting</h3>
+<ul>
+<li>To create something out of its components: <code>craft thing component component ...</code></li>
+</ul>
+<h3 id="combat">Combat</h3>
+<ul>
+<li>Attack a mob: <code>fight mob</code></li>
+<li><strong>TBD:</strong> Flee from combat: <code>flee</code></li>
+</ul>
+<h3 id="magic">Magic</h3>
+<ul>
+<li><strong>TBD:</strong> To cast a spell: <code>cast spell [target]</code></li>
+</ul>
+<h2 id="combat_1">Combat</h2>
+<p>Combat happens in real time. Each "round" of combat takes about one second, and for each round the following calculations are made:</p>
+<ul>
+<li>Initiative: who goes in what order, and who gets skipped altogether if they're busy with something else.</li>
+<li>Attacks: melee combat techniques are automatically calculated based on how the character is equipped. For example, if a character is holding an object (hopefully a weapon!), it's assumed they'll use that the best they can when attacking a foe.</li>
+<li>Defense: different forms of protection improve your defense against different kinds of attacks. </li>
+</ul>
+<p>In addition to automatic combat, the player can perform special attacks: using items and casting spells.</p>
+<h2 id="skill-development">Skill Development</h2>
+<p>Skills are developed by <em>doing</em> things: fighting, crafting, traveling, casting, and observing.</p></div>
             </div>
         </div>
 
