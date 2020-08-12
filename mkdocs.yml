@@ -5,7 +5,6 @@ site_dir: docs
 nav:
   - Home: index.md
   - The Guides:
-    - Introduction: introduction.md
     - Player's Guide: players/0.md
     - Storyteller's Guide: storytellers/0.md
     - Developer's Guide: developers/0.md
