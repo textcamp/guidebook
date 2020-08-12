@@ -1,4 +1,8 @@
 site_name: The Textcamp Guidebook
+repo_url: https://github.com/textcamp/textcamp
+copyright: Copyright (c) 2020, Peat Bakke <peat@text.camp>
+docs_dir: src
+site_dir: docs
 nav:
   - Home: index.md
   - The Guides:
