@@ -14,7 +14,7 @@ _Work in progress! Much of this is aspirational._
 
 * Check the current world time: `time`
 * Look at the space, a mob, or an item: `look [target]`
-* Examine something in detail to learn about it: `examine [target]`
+* **TBD:** Examine something in detail to learn about it: `examine [target]`
 
 ### Inventory
 
@@ -29,9 +29,9 @@ _Work in progress! Much of this is aspirational._
 
 * Move to a different space: `go direction`
 
-### Crafting
+### Crafting & Skills
 
-* To create something out of its components: `craft thing component component ...`
+* **TBD:** To create something out of its components: `craft thing component component ...`
 
 ### Combat
 
